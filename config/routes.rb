@@ -1,5 +1,7 @@
 Pwrwebsite::Application.routes.draw do
   get "home/index"
+  get "home/roadmap"
+  get "home/modernism"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
