@@ -8,4 +8,7 @@ class HomeController < ApplicationController
   def modernism
   end
 
+  def postmodernism
+  end
+
 end

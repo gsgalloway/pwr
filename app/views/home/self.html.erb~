@@ -1,0 +1,11 @@
+<h1>Quantum Mechanics and Postmodernism</h1>
+
+<h2>The Role of the Individual</h2>
+
+<p>So we cannot achieve a complete understanding of our universe because the universe is not deterministic. But perhaps the next most notable aspect of quantum mechanics is the role of the "observer."</p>
+
+<h3>Wave-Particle Duality</h3>
+
+<div id="double_slit">
+  <%= image_tag("doubleslit.jpg") %>
+</div>

@@ -2,6 +2,12 @@ Pwrwebsite::Application.routes.draw do
   get "home/index"
   get "home/roadmap"
   get "home/modernism"
+  get "home/postmodernism"
+  get "home/nietzsche"
+  get "home/objectivetruth"
+  get "home/certainty"
+  get "home/uncertainty"
+  get "home/self"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
