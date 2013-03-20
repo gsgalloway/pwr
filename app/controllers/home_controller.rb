@@ -11,4 +11,22 @@ class HomeController < ApplicationController
   def postmodernism
   end
 
+  def nietzsche
+  end
+
+  def objectivetruth
+  end
+
+  def certainty
+  end
+
+  def uncertainty
+  end
+
+  def self
+  end
+
+  def individual
+  end
+
 end
