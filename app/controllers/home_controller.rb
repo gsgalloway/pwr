@@ -29,4 +29,7 @@ class HomeController < ApplicationController
   def individual
   end
 
+  def testing
+  end
+
 end

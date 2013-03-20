@@ -9,6 +9,7 @@ Pwrwebsite::Application.routes.draw do
   get "home/uncertainty"
   get "home/self"
   get "home/individual"
+  get "home/testing"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
