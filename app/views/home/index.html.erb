@@ -1,4 +1,4 @@
-<h1 class="project_title">Postmodernism and the Decline of Objective Truth in Science</h1>
+
 <h2 class="author">
   Gavilan Galloway 
   <br/> 
@@ -9,8 +9,10 @@
   "There are no facts. Only interpretations." <i> &mdash; Nietzsche</i>
 </div>
 
-<div id="pipe_img">
-  <%= image_tag("Magritte-pipe.jpg") %>
+<div id="pipe">
+  <%= image_tag(@image_name) %>
 </div>
 
-<div class="next"><a class="link" href="/home/roadmap">Next &raquo;</a></div>
+<span class="link">
+  <a class="next" href="/home/roadmap" style=<%= @link_style.html_safe%>>Next &raquo;</a>
+</span>

@@ -1,0 +1,9 @@
+<h2>The Medium</h2>
+
+<h3>So Why a Website?</h3>
+
+<p>The design of this website is meant to mirror the uncertainty and the individual nature of postmodernism. Many aspects of the site are determined by randomization. They include the fonts, background color, "Prev" and "Next" color, and the images. As a consequence, when a visitor clicks through, their experience of the website will be unique to them. In fact, the same visitor will not have the same experience twice. Try going back to the start and reloading each page along the way.</p>
+
+<span class="link">
+  <a class="home" href="/home/index" style=<%= @link_style.html_safe %>>Home</a>
+</span>

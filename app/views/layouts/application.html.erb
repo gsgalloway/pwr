@@ -6,9 +6,15 @@
   <%= javascript_include_tag "application" %>
   <%= csrf_meta_tags %>
 </head>
-<body>
+<body style=<%= @body_style.html_safe%>>
 
-<%= yield %>
+<div id="banner">
+  <h1 class="project_title">PWR 2: Experience Project</h1>
+</div>
+
+<div id="content_box" style=<%= @content_box_style.html_safe %>>
+  <%= yield %>
+</div>
 
 </body>
 </html>

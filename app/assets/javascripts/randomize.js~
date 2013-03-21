@@ -1,0 +1,7 @@
+alert("Hi.");
+
+/*var linkSpans = document.getElementsByClassName("link");
+
+for (linkSpan in linkSpans) {
+    linkSpan.style.backgroundColor="yellow";
+}*/

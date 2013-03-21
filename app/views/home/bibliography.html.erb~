@@ -1,0 +1,6 @@
+
+
+<span class="link">
+  <a class="prev" href="/home/observer" style=<%= @link_style.html_safe%>>&laquo; Previous</a>
+  <a class="home" href="/home/index" style=<%= @link_style.html_safe %>>&laquo; Home</a>
+</span>
